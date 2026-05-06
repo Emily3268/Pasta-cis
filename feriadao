@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confira a história dos mártires</title>
+    <!-- Título que irá exibido no site -->
+    <link rel="stylesheet" href="https://santuariodosmartires.com/santos-martires-de-cunhau-e-uruacu">
+    <!--Link que será utilizado-->
+
+
+</head>
+
+
+<body>
+
+
+    <h1 style="color: rgb(39, 18, 0); text-align: center; font-size: 80px; font-family: 'Courier New', Courier, monospace;">Santos Mártires de Cunhaú e Uruaçu</h1>
+    <h2 style="text-align: center; color: rgb(190, 111, 80); font-size: 24px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">O Massacre de Cunhaú e Uruaçu é o nome dado a dois massacres ocorridos no Rio Grande do Norte, nos dias 16 de julho e 3 de outubro em 1645, ambos executados por holandeses.</h2>
+    <h3 style="font-size: 19px; text-align: center; color: rgb(201, 155, 112); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Em homenagem, o dia 3 de outubro é feriado estadual no Rio Grande do Norte.</h3>
+    <!--Aqui fizemos com h1,h2 e h3 o título principal e usamos o style para acrescentar cor, alterar o tamanho, fonte e etc-->
+
+
+    <img src="https://catedraldaluz.org.br/wp-content/uploads/2023/10/noticia_175733.jpg" alt="irmãos" style="display: block; margin: 0 auto;">
+    <!--Img para acrescentar a imagem que foi inserida ao site-->
+   
+<p style="color: rgb(102, 72, 2); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-align: justify; font-size: 30px;">
+        Os Santos Mártires de Cunhaú e Uruaçu, também conhecidos como Mártires da Resistência,
+        não apenas simbolizam a luta contra a opressão, mas também representam a resistência cultural e
+        religiosa no Brasil colonial. O massacre de Cunhaú ocorreu em 16 de julho de 1645,
+        enquanto o massacre de Uruaçu aconteceu em 3 de outubro do mesmo ano.
+        Ambos os eventos foram perpetrados por soldados holandeses durante a Guerra de Insurreição,
+        que buscava expulsar os holandeses do Nordeste brasileiro.
+
+
+        Os mártires eram principalmente católicos que se opuseram à imposição do calvinismo pelos holandeses,
+        o que gerou um forte conflito religioso.
+        O padre André de Soveral e o irmão Pio foram os mais destacados entre os mártires.
+        Eles foram capturados enquanto celebravam a missa e, mesmo diante da morte, permaneceram firmes em sua fé.
+       
+        Além de sua importância religiosa, os mártires representam a resistência dos nativos e colonos portugueses contra a colonização europeia,
+        enfatizando a luta pela autonomia e pela preservação da cultura local.
+        A memória dos Mártires de Cunhaú é celebrada em festividades religiosas e culturais no Rio Grande do Norte,
+        onde o dia 3 de outubro é feriado estadual.
+        Esse legado é um poderoso símbolo de unidade e perseverança em face da adversidade,
+        ressoando até os dias de hoje nas comunidades locais.
+    </p> <!--Aqui está o parágrafo que foi ultilizado para organizar o texto-->
+
+
+<h4>Se você gostaria de saber mais sobre alguma coisa relacionada a eles, acesse o blog:</h4>
+<a href="https://santuariodosmartires.com/santos-martires-de-cunhau-e-uruacu" target="_blank" style="color: rgb(153, 102, 78); text-decoration:underline;">santuariodosmartires</a>
+       <!--Link que entra em um site -->
+
+
+<h5>Faça contato para obter mais informações sobre nossos serviços no email: </h5>
+       <a href="mailto:emily.pereira2008e@gmail.com">emily.pereira2008e@gmail.com</a>
+       <!-- Link para enviar um email -->
+       
+<h6 style="font-family: Verdana, Geneva, Tahoma, sans-serif;" >Se houver um erro de carregamento de página, tente atualizar a página </h6>
+       <a href="#secao">atualizar a página</a>
+       <!-- Link que leva à seção  -->
+</body>
+
+
+</html>
